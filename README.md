@@ -7,7 +7,7 @@ spring cloud集成fescar的demo工程
 
 ## 准备工作
 
-1. 阅读官方文档Quick Start
+1. 阅读官方文档Quick Start，并成功启动fescar-server
 
 * [传送门](https://github.com/alibaba/fescar/wiki/Quick-Start)
 
