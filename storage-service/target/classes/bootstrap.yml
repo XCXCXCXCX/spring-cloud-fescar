@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: storage-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/fescar_demo
+    username: root
+    password: admin
+server:
+  port: 11114

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="account-service" />
+        <module name="business-service" />
+        <module name="order-service" />
+        <module name="spring-cloud-fescar-config" />
+        <module name="storage-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="account-service" target="1.8" />
+      <module name="business-service" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="spring-cloud-fescar" target="1.8" />
+      <module name="spring-cloud-fescar-config" target="1.8" />
+      <module name="storage-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

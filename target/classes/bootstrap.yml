@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fescar-demo
+server:
+  port: 11111
