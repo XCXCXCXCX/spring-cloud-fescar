@@ -10,7 +10,6 @@ import com.alibaba.fescar.spring.annotation.GlobalTransactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
-import org.springframework.web.client.RestTemplate;
 
 /**
  * @author XCXCXCXCX

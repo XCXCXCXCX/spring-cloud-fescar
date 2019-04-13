@@ -54,6 +54,7 @@ public class FescarAutoConfiguration {
         }
     }
 
+    @ConditionalOnBean({RestTemplate.class})
     @Bean
     public Object addFescarInterceptor(Collection<RestTemplate> restTemplates){
         restTemplates.stream()
