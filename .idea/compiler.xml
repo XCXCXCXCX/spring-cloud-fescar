@@ -18,7 +18,7 @@
       <module name="business-service" target="1.8" />
       <module name="order-service" target="1.8" />
       <module name="spring-cloud-fescar" target="1.8" />
-      <module name="spring-cloud-fescar-config" target="1.8" />
+      <module name="spring-cloud-fescar-config" target="1.5" />
       <module name="storage-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
